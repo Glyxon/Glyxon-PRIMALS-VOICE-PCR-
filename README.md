@@ -10,7 +10,7 @@ The current biotechnology landscape is gated by proprietary hardware, closed clo
 
 **GLYXON PRIMALS** is our first stand: a high-fidelity DNA amplification platform built to withstand the collapse of centralized infrastructure, integrated with the open-source intelligence of **PJ (Personal Justice)**.
 
-![GLYXON PRIMALS Main Unit](./IMAGES/bunker_main.jpg)
+![GLYXON PRIMALS Main Unit](./IMAGES/bunker_main.png)
 *Caption: The PRIMALS Bunker. Monolithic micro-concrete chassis with integrated precision controls and Matter-ready architecture. Designed at the Synthetic BioSystems Lab.*
 
 ---
@@ -21,7 +21,7 @@ The lab is a hands-free environment. Traditional interfaces fail when the user i
 ### Hands-Free Sovereignty
 PJ operates entirely on your local network (via **Home Assistant** and **Matter**), ensuring that your experimental data and voice commands never leave the "Bunker".
 
-![PJ in Action](./IMAGES/scientist_hands_free.jpg)
+![PJ in Action](./IMAGES/scientist_hand_free.png)
 *Caption: "PJ, initialize 30 cycles." Real-time protocol validation and hands-free management in a high-fidelity research environment.*
 
 ---
