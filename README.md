@@ -1,50 +1,61 @@
-🏛️ GLYXON PRIMALS: The Brutalist qPCR Infrastructure
-"Scientific sovereignty is not built; it is claimed. In concrete we trust. With PJ we amplify."
+# 🏛️ GLYXON PRIMALS: The Brutalist qPCR Infrastructure
+> **"Scientific sovereignty is not built; it is claimed. In concrete we trust. With PJ we amplify."**
 
-Welcome to the foundational repository of GLYXON PRIMALS, the world's first open-source Quantitative PCR (qPCR) thermal cycler designed for molecular sovereignty, resilience, and decentralized biotechnology.
+A project developed by the **Synthetic BioSystems Lab** at **Glyxon Biolabs** ([www.glyxon.com](http://www.glyxon.com)).
 
-👁️ The Vision: Molecular Sovereignty
-The current biotechnology landscape is gated by proprietary hardware, closed clouds, and fragile supply chains. Glyxon Biolabs is reclaiming the means of molecular production.
+---
 
-PRIMALS is our first stand: a high-fidelity DNA amplification platform built to withstand the collapse of centralized infrastructure, integrated with the open-source intelligence of PJ (Personal Justice).
+## 👁️ The Vision: Molecular Sovereignty
+The current biotechnology landscape is gated by proprietary hardware, closed clouds, and fragile supply chains. **Glyxon Biolabs** is reclaiming the means of molecular production.
 
-Caption: The PRIMALS Bunker. Monolithic micro-concrete chassis with integrated precision controls and Matter-ready architecture.
+**GLYXON PRIMALS** is our first stand: a high-fidelity DNA amplification platform built to withstand the collapse of centralized infrastructure, integrated with the open-source intelligence of **PJ (Personal Justice)**.
 
-🤖 Meet PJ (Personal Justice): The Conversational Lab Interface
-The lab is a hands-free environment. Traditional interfaces fail when the user is wearing contaminated gloves or managing complex protocols. Personal Justice (PJ) is the local-first intelligence that bridges the gap.
+![GLYXON PRIMALS Main Unit](./IMAGES/bunker_main.jpg)
+*Caption: The PRIMALS Bunker. Monolithic micro-concrete chassis with integrated precision controls and Matter-ready architecture. Designed at the Synthetic BioSystems Lab.*
 
-Hands-Free Sovereignty
+---
 
-PJ operates entirely on your local network (via Home Assistant and Matter), ensuring that your experimental data and voice commands never leave the "Bunker".
+## 🤖 Meet PJ (Personal Justice): The Conversational Lab Interface
+The lab is a hands-free environment. Traditional interfaces fail when the user is wearing contaminated gloves or managing complex protocols. **Personal Justice (PJ)** is the local-first intelligence that bridges the gap.
 
-Caption: "PJ, initialize 30 cycles." Real-time protocol validation and hands-free management in a high-fidelity research environment.
+### Hands-Free Sovereignty
+PJ operates entirely on your local network (via **Home Assistant** and **Matter**), ensuring that your experimental data and voice commands never leave the "Bunker".
 
-🧱 The Core Pillars
-1. Brutalist Hardware (The Bunker)
+![PJ in Action](./IMAGES/scientist_hands_free.jpg)
+*Caption: "PJ, initialize 30 cycles." Real-time protocol validation and hands-free management in a high-fidelity research environment.*
 
-We abandoned plastic injected molding for Ultra-High Performance Concrete (UHPC) and precision-machined metals.
+---
 
-Thermal Mass: Exceptional passive stability for delicate fluorescence readings.
+## 🧱 The Core Pillars
 
-Resilience: Fireproof, chemical-resistant, and aesthetically eternal.
+### 1. Brutalist Hardware (The Bunker)
+Developed under the philosophy of **Frugal Science**, we abandoned plastic injected molding for **Ultra-High Performance Concrete (UHPC)** and precision-machined metals.
 
-Precision Interaction: Featuring high-fidelity dimpled dials, toggle switches, and an angled UI for optimal ergonomics.
+* **Thermal Mass:** Exceptional passive stability for delicate fluorescence readings.
+* **Resilience:** Fireproof, chemical-resistant, and aesthetically eternal.
+* **Precision Interaction:** Featuring high-fidelity dimpled dials and an angled UI for optimal ergonomics.
 
-2. Photonic Ramping (The 36 Matrix)
+### 2. Photonic Ramping (The 36 Matrix)
+We replaced the standard Peltier block with a custom **36 Infrared LED Matrix** controlled by an ESP32-S3.
 
-We replaced the standard Peltier block with a custom 36 Infrared LED Matrix controlled by an ESP32-S3.
+* **Speed:** Rapid energy delivery directly to the micro-centrifuge tubes.
+* **Open Hardware:** Fully repairable and upgradable with off-the-shelf components.
 
-Speed: Rapid energy delivery directly to the micro-centrifuge tubes.
+### 3. Open Home / Matter Ready
+PRIMALS is the flagship instrument for the **Open Home** ecosystem in biotechnology. It speaks a universal language, allowing for seamless integration with local servers without proprietary apps.
 
-Open Hardware: Fully repairable and upgradable with off-the-shelf components.
+---
 
-3. Open Home / Matter Ready
+## 🛠 Project Roadmap & Status
 
-PRIMALS is built for the Open Home ecosystem. It speaks a universal language, allowing for seamless integration with local servers without proprietary apps or internet dependencies.
+| Phase | Description | Key Components | Status |
+| :--- | :--- | :--- | :--- |
+| **0: Infrastructure** | Chassis & Mold Design | UHPC Mix, Silicone Mold, CAD | **Complete** |
+| **1: Photonic** | IR LED Matrix Control | ESP32-S3 PWM, Thermistors, PID | **Active Dev** |
+| **2: Intelligence** | PJ Voice Integration | Wyoming Protocol, Home Assistant | **Active Dev** |
+| **3: Open Biology** | Protocol Standardization | Open-source polymerases (Taqchyon) | **Research** |
 
-🛠 Project Roadmap & Status
-Phase	Description	Key Components	Status
-0: Infrastructure	Chassis & Mold Design	UHPC Mix, Silicone Mold, CAD	Complete
-1: Photonic	IR LED Matrix Control	ESP32-S3 PWM, Thermistors, PID	Active Dev
-2: Intelligence	PJ Voice Integration	Wyoming Protocol, Home Assistant	Active Dev
-3: Open Biology	Protocol Standardization	Open-source polymerases (Taqchyon)	Research
+---
+
+### "PJ, initialize the cycle. Let's decode the future."
+Developed by **David J. Castillo** at **Synthetic BioSystems Lab** *(c) 2026 Glyxon Biolabs - [www.glyxon.com](http://www.glyxon.com)*
