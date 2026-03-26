@@ -1,0 +1,23 @@
+mqtt:
+  sensor:
+    - name: "Primals Temperature"
+      state_topic: "glyxon/primals/telemetry"
+      value_template: "{{ value_json.temperature }}"
+      unit_of_measurement: "°C"
+      device_class: "temperature"
+
+    - name: "Primals Status"
+      state_topic: "glyxon/primals/telemetry"
+      value_template: "{{ value_json.status }}"
+
+automation:
+  - alias: "PJ Alert: Cycle Complete"
+    trigger:
+      platform: state
+      entity_id: sensor.primals_status
+      to: "Complete"
+    action:
+      - service: tts.google_say # O tu motor local Wyoming
+        data:
+          entity_id: media_player.lab_speaker
+          message: "David, the amplification cycle is complete. Molecular sovereignty achieved."
