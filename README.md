@@ -59,3 +59,14 @@ PRIMALS is the flagship instrument for the **Open Home** ecosystem in biotechnol
 
 ### "PJ, initialize the cycle. Let's decode the future."
 Developed by **David J. Castillo** at **Synthetic BioSystems Lab** *(c) 2026 Glyxon Biolabs - [www.glyxon.com](http://www.glyxon.com)*
+
+## 🛠️ How to Learn with PRIMALS: The Montessori Protocol
+
+If you are here to build, do not fear the complexity. This laboratory is designed for experimentation through failure. 
+
+1. **Touch the Hardware:** Don't just read the code. Print the rPET supports, feel the texture of the UHPC concrete. The weight of the bunker is your first lesson in thermal stability.
+2. **Break the Cycle:** If your PID oscillates or your fluorescence readings are noisy, **good**. That is the machine teaching you about infrared interference and heat capacity.
+3. **Calibrate by Doing:** Use the 160° lens to see the world through the bunker's eyes. If the alignment is off, adjust the 0.22cm mirrors. 
+4. **Questions Later:** Build first. Follow the `BUILD.md` (coming soon). The theory in `REFERENCES.md` will make sense only once you've seen the green glow of a successful amplification.
+
+> "In this lab, we don't follow protocols; we inhabit them."
