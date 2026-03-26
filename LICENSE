@@ -1,14 +1,27 @@
-CERN Open Hardware Licence v2 - Weakly Reciprocal (CERN-OHL-W)
+# ⚖️ LICENSE: CERN Open Hardware License Version 2 - Strongly Reciprocal (CERN-OHL-S)
 
-Copyright (c) 2026 David J. Castillo - Glyxon Biolabs
+**Copyright (c) 2026 David J. Castillo - Glyxon Biolabs (Synthetic BioSystems Lab)**
 
-This source describes Open Hardware and is licensed under the CERN-OHL-W v2.
+This project, **GLYXON PRIMALS**, is licensed under the **CERN-OHL-S v2**.
 
-You may redistribute and modify this source and make products using it 
-under the terms of the CERN-OHL-W v2 (https://ohwr.org/cern_ohl_w_v2.txt).
+---
 
-This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, 
-INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A 
-PARTICULAR PURPOSE. Please see the CERN-OHL-W v2 for applicable conditions.
+### 🏛️ Why this License?
+By using the **CERN-OHL-S**, we ensure the "Scientific Sovereignty" of this design. This is a **Strongly Reciprocal** license, which means:
 
-Source location: https://github.com/dcastillo-glyxon/glyxon-primals
+1.  **Freedom to Use:** You are free to study, modify, and manufacture the GLYXON PRIMALS bunker.
+2.  **Sovereignty of Improvements:** If you modify the hardware or the 3D-printed rPET components and distribute them, you **MUST** make your modified design files available under this same license.
+3.  **Attribution:** You must retain the original copyright notice and credit **David J. Castillo / Glyxon Biolabs**.
+4.  **No Warranty:** This hardware is provided "as is" for research and educational purposes.
+
+---
+
+### 🔬 Intellectual Property & Open Science
+The **Synthetic BioSystems Lab** at Glyxon Biolabs believes that the tools for molecular biology should be common heritage. This license prevents the "enclosure" of the GLYXON PRIMALS design by proprietary interests.
+
+### 📜 Full Legal Text
+For the full legal terms and conditions, please refer to the official [CERN-OHL-S v2 documentation](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2).
+
+---
+> **"Scientific sovereignty is not built; it is claimed. In concrete we trust. With PJ we amplify."**
+> *(c) 2026 Glyxon Biolabs - [www.glyxon.com](http://www.glyxon.com)*
