@@ -1,0 +1,14 @@
+#include <WiFi.h>
+#include <PubSubClient.h>
+
+void publishStatus(float temp, int cycle) {
+  StaticJsonDocument<200> doc;
+  doc["device"] = "GLYXON_PRIMALS_01";
+  doc["temperature"] = temp;
+  doc["current_cycle"] = cycle;
+  doc["status"] = (temp > 90) ? "Denaturing" : "Annealing";
+
+  char buffer[256];
+  serializeJson(doc, buffer);
+  client.publish("glyxon/primals/telemetry", buffer);
+}
